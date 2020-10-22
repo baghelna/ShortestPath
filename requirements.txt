@@ -8,7 +8,7 @@ mysqlclient==2.0.1
 numpy==1.18.5
 pandas==1.1.0
 pandocfilters==1.4.2
-
+requests==2.7.0
 pyarrow==1.0.1
 scikit-image==0.16.2
 seaborn==0.10.1
